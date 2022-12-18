@@ -1,1 +1,2 @@
 # Cryptocurrencies
+The goal of this project was to use unsupervised learning in order to determine which cryptocurrencies would be perfect for Martha to include in her new cryptocurrency investment portfolio. There are many cryptocurrencies on the market, our model determines which coins are perfect for her portfolio.
